@@ -1,0 +1,199 @@
+Calumny . False blame
+Demur . Reluctant
+Castigate chastise . Censure
+Acrimony . Ill will
+Egregious . Negative way
+Harangue Rant . Rant
+Prevaricate . Evasive
+Amenable . Pursuaded
+Belie . False impression
+Meticulous . Carefully
+Apathetic . Not interested
+Eschew . Stay away
+Mitigate . To lessen
+Preclude . To not let through
+Conspicuous . Abvious reveal
+Engender . Provoke
+Banal . trite platitude 
+Culpability . Guilty
+Lambast . Censure
+Culminate . Summit
+Diffident . Reserved unconfident
+Incisive . Attention to detail
+Gall . Impudent
+Predilection . Fond
+Exacerbate . Make worse
+Gainsay . Officially no
+Reticent . Reluctant to talk
+Torpor . lethargic
+Mawkish . Over sentiment
+Recondite . Difficult to understand
+Obscure . Hide
+Gossamer . Delicate
+Fortuitous . Coincidence
+Superfluous . Not of any use
+Inexorable . Inevitable
+Perfidy . Betrayal
+Volubility . Write and speak continuously
+Entrenched . Fixed
+Ameliorate . Lessen
+Vehement . Emotional
+Avaricious . Greed
+Supplant . In place of
+Forlorn . No hope
+Staunch . Fix
+Contrive . Jugaad
+Panache . Style
+Ascetic . Self denial
+Languid . Lazily happy
+Magnanimous . Generous towards enemy
+Jingoism . Patriotism @peaks
+Tantamount . Reserved
+Delineate didactic rheotic . Expound
+Heretic . Unorthodox
+Vilify . Criticism
+Fallacious . Based on mistaken belief
+Tenacious . Andamant
+Mollify . Lessen anger
+Travesty . Absurd representation
+Belligerent . Causing fight
+Incongruous . Not harmonious
+Guileless . Innocent
+Frustrate baffle . Prevent
+Apocryphal . Of questionable authenticity
+Intransigent . Not listening to
+Espouse . Follow (opp of eschew)
+Burgeon . Florish
+Construe . Interpreted in a particular way
+Implacable . Not able to lessen anger
+Pundit . Scholar
+Admonitory . Warning
+Temperance . Trait of controlling
+Ideosynchronatic . Personal trait
+Provincial . Limited imagination
+Exalt . Extol praise
+Copious . Abundant 
+Ingratiate . Trying to gain favour
+Expound . Didactic
+Exonerate . Acquit
+Petulant . Easily annoyed
+Contingent coterie . Group of people
+Pedantic . Too much attention
+Hackneyed . Insignificant due to over use
+Tempered . 
+Ostracize . expel from society
+Inscrutable . not understandable
+Inimical . hostile
+Prolific . productive
+Rescind . revoke 
+Pedestrian . lacking imagination
+Propitious . good chance of success
+Myriad . endless opportunities or numbers
+Sycophant . flattery
+Tractable . easy to control
+Lionize . give high importance to 
+Munificence . extremely generous
+Ravenous . monsterous hunger
+Winsome . child-like charm
+Foment . stir up public opinion
+Sporadic . scattered
+Dilettante . child pretending to know everything
+Precipitous . hasty and sudden
+Subversive . disruptive and causing fights
+Hegemony . monarch
+Resurgent . revive
+Insolent . not decent 
+Repudiate . revoke
+Arcane . Secretive
+Circumscribe . restrict within limits
+Inveterate . habitual
+Austere . simple harsh and sometimes ugly
+Contempt . to criticize unfairly
+Derogate . to criticize unfairly
+Vilify . to criticize unfairly
+Florid . red, dense and complex
+Menacious . deliberately cruel
+Slendering . deliberately cruel
+Loathsome . deliberately cruel
+Abominable . deliberately cruel
+Abhorrent . deliberately cruel
+Imperious . deliberately cruel
+Presumptous . overconfident
+Gall . casual disrespect
+Impetus . force or momentum
+Impetuos . Hasty 
+Impertinent . Hasty
+Vindict . take revenge
+Compunction . resent
+Prodigous . stupendous, formidable and huge
+Adroit . nifty and intelligent 
+Noetic . sane, lucid and rational 
+Avaricious . greedy
+Impecunious . poor
+Covetous . greedy
+Profligate . extravagant about money
+Decadence . extravagant about money
+Dissolute . extravagant about money lustful
+Affluent . rich and wealthy
+Prevaricate . ambiguos and evasive
+Congenial . amiable
+Affable . amiable
+Inimical . enmity
+Vacillating . not fixed on a particular decision
+Sly . volatile
+Wry . volatile
+Elfin . volatile
+Puckish . volatile
+Torpid . lethargic
+Vindicate . free of blame
+Exonerate . Free of blame
+Exculpate . Free of blame 
+Indict . accused 
+Impeach . accused
+Providential . fear of god
+Preposterous . absurd
+Rebuke . criticize or scold
+Admonish . like a final warning
+Stigmatize . criticize or scold
+Lambast . criticize or scold
+Chastise . criticize or scold
+Censure . criticize or scold
+Reproach . scold
+Ebb . gradual decline
+Instigate . provoke
+Aggravate . make things bad
+Engender . provoke
+Baleful . threaten
+Jeopardize . threaten 
+Chivvy . harass 
+Peril . threaten 
+Sinister . threaten
+Hysteria . emotional speech
+Vogue . current trends
+Meek . mild
+Conceit . self-pride
+Vanity . self-pride
+Facetious . not serious
+Facile . not serious
+Sublime . noble
+Curtail . shorten or abridge
+Arcane . Secretive
+Tardiness . not punctual 
+Ruse . deceptive
+Device . deceptive
+Manoeuvre . deceptive 
+Contrive . jugaad 
+Ploy . deceptive 
+Tenacious . adamant and dogmatic
+Pedantry . Parochial and dogmatic
+Provincial . narrow outlook of a region
+Evict . expel or oust
+Obsequios . Impress
+Ostentacious . flattery 
+Ingratiate . flattery 
+Sychophant . flattery
+Diabolical . shrewd
+Astute . shrewd
+Acument . shrewd
+Contentious . arguementative
+Platonic . renounce
