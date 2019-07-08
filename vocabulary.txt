@@ -198,3 +198,102 @@ Astute . shrewd
 Acument . shrewd
 Contentious . arguementative
 Platonic . renounce
+Embroiled . argumentataive
+Relegate . demote
+Emphemeral . temporary
+Perennial . long and everlasting
+Prosaic . not fanciful
+Beguile . charming in a deceptive way
+Concoct . cook up or make up
+Serendipity . auspicious
+Languish . got fade away with misery
+Yearn . got fade away with misery
+Ubiquitious . omnipresent 
+Prolix . prolong
+Curt . shorten 
+Abridge . shorten
+Pithy . Concise 
+Precarious . Dangerously shaky
+Parlour . Dangerous
+Blithely . beautiful 
+Quiescence . inactive
+Dormancy . inactive
+Acme . summit 
+Profuse . plentiful
+Remiss . neglecting duty 
+Indignant . anger due to injustice 
+Candor . truthful 
+Lissome . thin
+Lithe . thin
+Polemical . Angry speech
+Delineate . didactic explaining detail
+Rhetorical . didactic
+Fledgling . novice
+Lax . reversal trap
+Cajole . Flattery 
+Inveigle . flattery 
+Coax . flattery
+Mendacious . false 
+Posit . to present true evidence
+Calumny . false blame
+Egregious . standing out in a negative way
+Fecund . fertility and prolific
+Confound . amazed
+Indoctinated . brainwashed
+Popagandize . brainwashed
+Desultory . not interested
+Fervent . highly obsessive
+Fetid . highly obsessive
+Implacable . not able to lessen
+Preclude . to stop from happening 
+Diffident . reserved and not confident
+Reticent . reserved and not confident
+Predisposition . prediliction and fond
+Recondite . not able to understand or penetrate
+Fortuitous . happy coincidence
+Perdify . highest level of betrayal
+Volubility . writing and speaking continously 
+Vehement . emotional 
+Vociferous . emotional
+Laconic . few words to describe a person
+Languid .fatigue
+Heretic . unorthodox
+Abstruse . difficult to understand
+Obfuscation . confusing
+Unobstrusive . stealthily
+Aplomb . self confidence
+Poise . self confidence
+Exalt . praise
+Extol . praise
+Imbroglio . confusing
+Finesse . adept
+Fetid . strong smell
+Furtively . stealthily
+Apprehension . worried or grasping fast
+Indelible . everlasing
+Fallacious . false belief
+Travesty . mockery or absurd presentation
+Belligerent . fight provoking
+Recant . renounce
+Sagacious . shrewd
+Objective . not biased
+Quixotic . over idealistic
+Verdant . new and green
+Garrulous . speak a lot 
+Apocryphal . being of questionable authenticity
+Espouse . to follow a princple
+Copious . abundant
+Expound . explain in detail 
+Contingencies . group of people
+Entourage . group of people
+Repudiate . reject
+Arduos . tiring
+Tempered . decrease with time
+Amused . entertain
+Subversive . opposition to the best
+Recede . to fall back
+Berserk . violent
+Ergonomic . efficient
+Perpetuity . everlasting
+Plaudit . praise
+Sangfroid . composure and peace
