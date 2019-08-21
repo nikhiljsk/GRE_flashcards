@@ -63,6 +63,22 @@ malady . disease
 inclement . unpleasant 
 respite . small break
 morose . gloomy
-flounder . behave awkwardly 
+flounder . behave awkwardly, fumble
 plodding . slow and laborious
 proponent . person pleading for a cause
+moot . open to arguement
+disenfranchise . deprive of voting rights 
+obdurate . stubborn
+snide . mocking indirectly 
+raffish . carefree
+impede . hindrance
+stolid . emotionless
+thwart . hinder
+entice . false promises
+quandary . perplexed
+renege . fail to fulfill a promise
+fete . celebrate a person
+deter . try to prevent
+incessant . uninterruptted in time
+patronize . treat condescendingly, inferiorly
+---
