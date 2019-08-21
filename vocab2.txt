@@ -111,3 +111,5 @@ buck . resist
 detrimental . causing harm or injury
 tumult . chaos
 genteel . marked by refinement
+vacuous . devoid of intelligence
+---
