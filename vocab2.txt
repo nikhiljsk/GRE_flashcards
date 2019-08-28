@@ -257,4 +257,146 @@ Apostate . Opting out of cast, religion and cause
 Pariah . Outcast
 Fractious . Irritable
 ---
-
+Sybarite . Person indulging in luxury
+Apotheosis . Highest point of development
+Cupidity . Greed for money
+Peremptory . Bossy and domineering
+Parvenu . Person who suddenly becomes wealthy
+Venial . Excused easily
+Benighted . State of ignorance or darkness
+Mellifluous . Smooth sounds
+Gerrymander . Manipulate votings to favour a party
+Arriviste . Person who has recently reached a position
+Execrate . Curse or hiss
+Sartorial . Related to fashion
+Bilious . Irritable
+Imbroglio . Confusing and embarrassing situation
+Sententious . Moralising 
+Jejune . Dull and lacking flavour, childish
+Invective . Abusive
+Hedge . To limit a statement
+Quisling . A traitor
+pollyanna  . Extremely optimistic
+Limpid . Clarity interms of expression
+Arch . Deliberately teasing
+Malapropism . Confusion with another word
+Prejudice . Biased
+Jaundiced . Biased
+Excoriate . Criticize harshly
+Mettlesome . Valour, courage
+Disabuse . Persuade someone that belief is not valid
+Martinet . Disciplinarian
+Expurgate . censor
+Histrionic . Overly theatrical
+Fell . Terribly evil
+Curmudgeon . Surly person, grouchy
+Aghast . Horror or shock
+Maudlin . Overly emotional
+Phantasmagorical . Illusive
+Pyrrhic . Victory not worth, comparing the cost for victory
+Propitiate . To placate, appease
+Protean . Versatile
+Schadenfreude . Joy from watching the suffering of others
+Remonstrate . To make objections while pleading
+Mulct . Defraud or swindle
+Picayune . little value
+Factitious . Not natural 
+Quixotic . Wildly idealistic
+Blinkered . Limited outlook
+Palimpsest . Changes done, former traces exists
+Vituperate . Criticise harshly
+Juggernaut . Force unstoppable
+Tendentious . Likely to lean towards a controversial view
+---
+Umbrage . Anger since offended
+Impute . Attribute to 
+Approbatory . Praise
+Prolix . Long description 
+Lugubrious . Excessively mournful
+Enjoin . Give instructions with authority
+Mordant . Caustic in nature
+Punctilious . Precise accordance
+Vanity . excessive self-pride
+Vitriolic . Harsh or corrosive in tone
+Litany . Tedious account of something
+Probity . Integrity, strong moral principles
+Sagacious . Good judgement and acute insight
+Prognostication . Statement about the future
+Semblance . Outward appearance, misleading
+Hagiographic . Admiring someone too much
+Gaffe . Socially awkward
+Perspicacious . Acutely insightful
+Provident . Careful in regard to future
+Temerity . Fearless and daring
+Bowdlerize . censor
+Plucky . Marked by courage and determination
+Redoubtable . Inspiring fear or awe
+Derelict . Negligence towards duty
+Lampoon . Ridicule with satire
+Sinecure . Office with minimal duties
+Pecuniary . Relating to money
+Importune . Beg persistently
+Prophetic . Predicting furture
+Portentous . Ominously prophetic
+Effrontery . Audacious but not right
+Anodyne . Relieves pain 
+Epiphany . Moment of sudden or great revelision
+Illustrious . Widely known
+Solecism . Socially awkward
+Raconteur . Person skilled in telling anecdotes
+Quail . Draw back with fear, recede
+Moribund . on the point of death
+Primacy . The state of being first in importance
+Flummox . Mystery
+Espionage . Spying 
+Duplicity . Deceitful, want one but pretends other way
+Recapitulation . Summary
+Anaemic . Lacking energy
+Cede . Release control over
+Maunder . Wander
+Insouciance . Lack of concern
+Charlatan . Flamboyant deceiver
+---
+Hobble . Hold back the progress
+Dispensation . Exemption from a rule
+Machinate . Connive
+Unflappable . Not easily perturbed, excited or upset
+Tempestuous . Erratic and impulsive
+Surreptitious . Stealthy
+Inimitable . Defying imitation, matchless
+Incontrovertible . Impossible to deny or disprove (evidence)
+Magisterial . Showing great authority
+Decry . Strong disapproval 
+Firebrand . Deliberate trouble creator 
+Hubris . Overbearing pride 
+Subterfuge . hide something
+Denouement .  Climax of a play
+Ossify . Cease developing, hardened
+Untenable . Incapable of being defended or justified
+Crestfallen . sad and disappointed
+Presentiment . A feeling of evil to come
+Recriminations . Mutual accusations
+Apposite . Remarkably appropriate
+Asperity . Harshness
+Stalwart . Dependable
+Obstreperous . difficult to control, unruly
+Lacerate . Deeply hurt the feeling of
+Insidious . subtle way, but with very harmful effects
+Invidious . Likely to cause resentment
+Cosset . Treat with excessive indulgence
+Nonchalant . Calm no anxiety, excitement
+Immure . Enclose 
+Ribald . Humorously vulgar
+Encumber . Hold back
+Crystallise . To take shape and plan
+Rarefied . Subtle and refined
+Patent . highly Obvious 
+Dovetail . Coalesce
+Inviolate . Must be kept sacred
+Spartan . Self-denial
+Peripatetic . Traveling by foot
+Puissant . Powerful
+Corollary . Result or consequence
+Puerile . No maturity
+Celerity . Speed
+---
