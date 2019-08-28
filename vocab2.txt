@@ -113,3 +113,148 @@ tumult . chaos
 genteel . marked by refinement
 vacuous . devoid of intelligence
 ---
+retract . undo
+goad . urge-on by passing bad comments
+peevish . easily annoyed 
+tout . advertize very positively
+aphoristic . conscise principles
+perturn . disturb
+connive . take part in a unethical situation
+pastoral . pleasant country-side
+leery . cautious
+eke . to survive off of meagre supplies
+exasperate . annoy a lot
+smug . excessive self-satisfaction 
+steadfast . strong determination
+credulity . ability to easily believe
+impending . about to happen
+impregnable . cannot be tampered
+tact . skillfully tackle people
+travail . use of mental and physical energy
+quip . witty remark
+squander . spending money thoughtlessly
+complacent . smug, overly satisfied
+maxim . a short saying expressing a general truth
+ploy . clever plan to turn situation to one's advantage
+derogative . expressed in negative terms
+discord . lack of agreement or harmony
+collusion . agreement on a secret plot
+brusquely . in a blunt direct manner
+foible . a behavioral attribute that is peculiar to an individual
+---
+eccentric . unconventional
+rile . annoy
+analogous . similar in only some aspects
+irascible . anger
+finagle . trickery skills
+cavalier . unconcerned 
+redress . making something right
+profusion . abundant
+clemency . begging compassion
+wanton . no limitation
+evenhanded . without partiality
+coalesce . fuse to grow together
+docile . willing to be supervised easily
+veneer . thin surface
+incumbent . necessary as a duty
+industrious . hardworking
+insipid . dull
+besmirch . damage the reputation of someone
+rakish . carefree
+glean . collect information bit by bit
+consecrate . to make holy
+behoove . one's duty 
+deride . treat with contempt
+incense . make furious 
+tribulation . event causing suffering
+ascribe . attribute to or credit to 
+intermittent . stopping and starting at regular intervals
+foolhardy . reckless
+presumptuous . excessively forward
+buttress . make stronger
+antedate . proceed in time, precede
+piquant . having an agreeably pungent taste
+uncanny . supernatural
+humdrum . dull
+---28-08-2019
+Convivial . Lively atmosphere
+Inarticulate . Not able to speak well
+Debunk . Expose false ideas
+Hamper . Prevent the progress
+Morph . Undergo big change
+Discreet . Careful to protect one's speech
+Resignation . Acceptance of something bad that cannot be avoided
+Dilapidated . Terrible condition
+Miscreant . Law breaker
+Creditable . Deserving praise but not amazing
+Inkling . Basic understanding
+Stymie . Hinder
+Snub . Outright rejection
+Balk . Refuse to agree
+Staid . Dignified
+Carping . Persistent annoyance
+Paradoxical . Seemingly impossible but true
+Qualm  . Uneasiness about fitness of an action
+Abysmal . Bad performance
+Dispatch . Prompt and efficient
+Vanquish . Come out better in a competition
+Aphorisms . Short instruction about a saying
+Misogynist . Hates woman
+Misanthrope . Hates mankind
+Decimation . Destroy completely
+champion . Fight for a cause
+Perquisite . Enjoy benefits through hereditary
+Vie . Compete
+obliging . Willing to do favours 
+Chimera . Delusional, illusional
+Cumbersome . Heavy
+Chivalrous . Brave, attentive, and gallant towards women
+Besiege . Annoy and harass
+Sordid . Ignoble actions 
+Differentiate . Evolve
+Boorish . Ill-mannered
+---
+Base . No morals 
+Indigent . Poor
+Churlish . No manners
+Catholic . Universal, broad scope
+Truculent . Savage behaviour
+Kowtow . Bow
+Cow . To intimidate 
+Hector . Intimidate or bully
+Expunge . Elimination 
+Exegesis . Critical explanations
+Prosaic . Lacking imagination
+Artless . Innocent 
+Byzantine . Complex 
+Choleric . Easily irritated
+Turpitude . Depraved or corrupt behaviour
+Malfeasance . Wrong doings
+Conciliate . Make peace
+Supercilious . Haughty
+Sedulous . Diligent 
+Beg . Assume to be true
+Nadir . Lowest point 
+Anathema . Extreme hatred
+Zeitgeist . Spirit of times
+Perfunctory . Mundane 
+Alacrity . Eager to do something
+Lascivious . Perverted, lecherous 
+Palpable . Touching 
+Vicissitude . Changing with circumstances
+Expansive . Communicative socially
+Ponderous . Weighted down]
+Ponder . Think about something carefully
+Attenuate . To weaken
+Defray . Help by paying 
+Penurious . Poor
+Insufferable . intolerable
+Chary . Cautious 
+Factious . Dissension (internal disagreement)
+Diatribe . Verbal attack
+Apogee . Highest point
+Apostate . Opting out of cast, religion and cause
+Pariah . Outcast
+Fractious . Irritable
+---
+
