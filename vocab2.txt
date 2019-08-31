@@ -400,3 +400,147 @@ Corollary . Result or consequence
 Puerile . No maturity
 Celerity . Speed
 ---
+Doleful . Filled with sadness
+Meteoric . Speed and brilliance
+Rapprochement . Re-establish cordial relationships
+Recrudesce . To break out again
+Disingenuous . Not innocent, misleading
+Artifice . Cunning tricks
+Apothegm . Aphoristic 
+Effervescent . High spirits and excited
+Brook . do not bare unpleasant people
+Besotted . Affectionate/drunk
+Chagrin . Embarrassing
+Epigram . Witty saying
+Arrogate . seize and control with authority
+Nettlesome . Irritate 
+Squelch . Suppress or crush 
+Ineffable . Inexpressible
+Empiricism . Experimental experience
+Anachronism . Old things that remain same till date
+Broadside . Verbal attack
+Pith . Concise, required point
+Paragon . Model of excellence
+Debonair . Sophisticated charm
+Objurgate . Strong disapproval
+Solicitude . Excessive concern
+Percipient . Very perceptive
+Bemoan . Strongly regret
+Gambit . manoeuvre or trick 
+Unstinting . generous
+Browbeat . Bossy
+Inanity . Total lack of meaning
+Reprisal . Retaliate 
+untrammeled . Not limited 
+Appurtenant . Appropriate or germane
+Unprepossessing . Neutral impression
+Inchoate . Partial existence
+Ersatz . Not genuine
+Bristle . Angry 
+Deign . Condescend, consider self to be superior
+Atavism . Throwback
+Antic . Very odd
+Philistine . Smug and ignorant
+Phlegmatic . Little emotion
+Baleful . Threat
+Hoary . ancient
+---
+Appropriate . Allocate
+Pellucid . Clear
+Proselytise . Change religion or cause
+Impugn . False attack
+Afford . Provide and opportunity	
+Palatable . Acceptable
+Dolorous . Showing sorrow
+Vaunted . Boasted
+Impervious . Not affected by
+Stultify . Lose energy enthusiasm
+Impeach . Accuse
+Pontificate . Dogmatic 
+Dolorous . Showing sorrow
+Gumption . Resourceful
+Complicit . Connive 
+Fecund . Fertile/productive
+assiduosly . Care and perseverance
+Self-effacing . Modest
+Inequity . Not equally treated
+Transmute . Change form 
+Complaisant . Willing for favours
+Complacent . Pride
+Bromide . Banal
+Inviolable . Never to be broken 
+Elegiac . Sorrowful
+Enormity . Wicked act
+Proscribe . Command against 
+Callow . Noob, verdant , fledgling
+unassailble. Immune to attack
+Internecine . Conflict within group 
+Obtuse . Slow to learn
+Malingerer . Shirk, neglect duty 
+Conflate . Mixture
+Desiccated . Uninterested
+Autocratic . Absolute ruler, arrogant
+Abjure . Reject
+Coterminous . Equal extent
+Doughty . Brave
+Conflagration . Uncontrolled fires
+Noisome . Bad smell
+Tyro . Noob 
+Discursive . Depart from main topic
+Bridle . Limit or angr
+Facile . Not serious
+Panegyric . Praise
+Hauteur . Overbearing pride
+Desideratum . A necessity 
+Aplomb . Composure
+Ethereal . Lightness
+Mendicant . Beggar
+Turgid . pompous
+---
+Exiguity . Scarcity 
+Obtain . Valid
+Extrapolate . Draw from more specific to general case
+Veritable . Truthful 
+Flag  . Sink
+Bastardisation . Debase 
+Raillery . Light teasing
+Splenetic . Irritable
+Abrogate . Revoke 
+Adjudicate . Come to a conclusion
+Spectre . Ghost or danger
+Concomitant . Accompany
+Panacea . A universal solution to illness
+Officious . Meddlesome, interrupting and bossy
+Hoodwink . Trick someone
+Ineluctable . Impossible to avoid
+Surfeit . Excessive
+Verisimilitude . Truth
+Pillory . Ridicule in public
+Diminutive . Indicate smallness
+Modicum . Small amount
+Canard . Misleadings
+Evanescence . Vanish like vapour
+Graft . Corruption thought bribe
+Demonstrative . Open expression
+Palaver . Speak rapidly
+Estimable . Esteemed
+Sardonic . Mocking
+Promulgate . Announce
+Trenchant . Keen intelligence through force
+Dissemble . Hide, disguise
+Loath . Unwilling to do something cause of limitations
+Simulacrum . Bad imitation
+Row . Angry dispute
+Halcyon . Happy and peaceful
+Bereft . Unhappy through deprivation
+Oblique . Indirect
+Countermand . Reversing previous command
+Despot . Cruel dictator
+Infelicitous . Not appropriate
+Ebullient . Jubilant 
+Lachrymose . Sorrow
+Eponym . Name derived from person
+Cataclysm . Great loss through an event
+Capitulate . To surrender
+Exorbitant . Greatly exceeding limits
+---
