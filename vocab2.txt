@@ -1,30 +1,31 @@
 ---21-08-2019
+---1
 qualify . limit
 ingenous . naive and innocent
----
+---2
 bucolic . pleasant country-side
 culminate . reach highest point
 reticent . reluctant to speak
 deferential . showing respect 
 exacerbate . make worse
 inexorable . impossible to stop
----
+---3
 quotidian . ordinary course of events
 refractory . resistant to authority 
 spurious . plausible but false
 staunch . dependable loyalty
 vilify . spread negative information
 belligerent . eager to fight
----
+---4
 bumbling . lack of movement
 pedantic . fussy
 ignoble . not noble 
----
+---5
 ostracize . expel from a community 
 precipitous . hasty 
 propitious . favorable
 tempered . moderate effect 
----
+---6
 ignominious . Bring disgrace 
 Mendacity . Untruthful
 Pejorative . Expressing disapproval
@@ -34,12 +35,12 @@ Disseminate . Make widely known
 Furtive . Sneaky
 Maladroit . Clumsy 
 Specious . Deceptive, plausible but false
----
+---7
 indict . formally charge the accused
 demure . modest
 erratic . unpredictable
 inundate . to flood or overflow
----
+---8
 vicarious . live the life of another
 cadaverous . emaciated, gaunt, thin
 errant . wandering
@@ -55,7 +56,7 @@ heyday . pinnacle of a career
 amok . frenziness
 disparate . two things that are fundamentally different
 aboveboard . honest
----
+---9
 malleable . easily persuaded
 meander . wander aimlessly 
 consummate . make perfect in every aspect
@@ -81,7 +82,7 @@ fete . celebrate a person
 deter . try to prevent
 incessant . uninterruptted in time
 patronize . treat condescendingly, inferiorly
----
+---10
 derisive . abusing vocally
 debase . reduce the quality
 rankle . anger 
@@ -112,14 +113,14 @@ detrimental . causing harm or injury
 tumult . chaos
 genteel . marked by refinement
 vacuous . devoid of intelligence
----
+---11
 retract . undo
 goad . urge-on by passing bad comments
 peevish . easily annoyed 
-tout . advertize very positively
-aphoristic . conscise principles
-perturn . disturb
-connive . take part in a unethical situation
+tout . advertise very positively
+aphoristic . concise principles
+perturb . disturb
+connive . take part in an unethical situation
 pastoral . pleasant country-side
 leery . cautious
 eke . to survive off of meagre supplies
@@ -140,8 +141,8 @@ derogative . expressed in negative terms
 discord . lack of agreement or harmony
 collusion . agreement on a secret plot
 brusquely . in a blunt direct manner
-foible . a behavioral attribute that is peculiar to an individual
----
+foible . a behavioral attribute that is peculiar to an individual, Idiosyncratic
+---12
 eccentric . unconventional
 rile . annoy
 analogous . similar in only some aspects
@@ -177,6 +178,7 @@ piquant . having an agreeably pungent taste
 uncanny . supernatural
 humdrum . dull
 ---28-08-2019
+--13
 Convivial . Lively atmosphere
 Inarticulate . Not able to speak well
 Debunk . Expose false ideas
@@ -213,7 +215,7 @@ Besiege . Annoy and harass
 Sordid . Ignoble actions 
 Differentiate . Evolve
 Boorish . Ill-mannered
----
+---14
 Base . No morals 
 Indigent . Poor
 Churlish . No manners
@@ -243,7 +245,7 @@ Lascivious . Perverted, lecherous
 Palpable . Touching 
 Vicissitude . Changing with circumstances
 Expansive . Communicative socially
-Ponderous . Weighted down]
+Ponderous . Weighted down
 Ponder . Think about something carefully
 Attenuate . To weaken
 Defray . Help by paying 
@@ -256,7 +258,7 @@ Apogee . Highest point
 Apostate . Opting out of cast, religion and cause
 Pariah . Outcast
 Fractious . Irritable
----
+---15
 Sybarite . Person indulging in luxury
 Apotheosis . Highest point of development
 Cupidity . Greed for money
@@ -307,7 +309,7 @@ Palimpsest . Changes done, former traces exists
 Vituperate . Criticise harshly
 Juggernaut . Force unstoppable
 Tendentious . Likely to lean towards a controversial view
----
+---16
 Umbrage . Anger since offended
 Impute . Attribute to 
 Approbatory . Praise
@@ -324,7 +326,7 @@ Sagacious . Good judgement and acute insight
 Prognostication . Statement about the future
 Semblance . Outward appearance, misleading
 Hagiographic . Admiring someone too much
-Gaffe . Socially awkward
+Gaffe . Awkward mistake
 Perspicacious . Acutely insightful
 Provident . Careful in regard to future
 Temerity . Fearless and daring
@@ -356,11 +358,12 @@ Cede . Release control over
 Maunder . Wander
 Insouciance . Lack of concern
 Charlatan . Flamboyant deceiver
----
+---17
 Hobble . Hold back the progress
 Dispensation . Exemption from a rule
 Machinate . Connive
 Unflappable . Not easily perturbed, excited or upset
+Nonchalant . unflappable
 Tempestuous . Erratic and impulsive
 Surreptitious . Stealthy
 Inimitable . Defying imitation, matchless
@@ -399,7 +402,7 @@ Puissant . Powerful
 Corollary . Result or consequence
 Puerile . No maturity
 Celerity . Speed
----
+---18
 Doleful . Filled with sadness
 Meteoric . Speed and brilliance
 Rapprochement . Re-establish cordial relationships
@@ -444,7 +447,7 @@ Philistine . Smug and ignorant
 Phlegmatic . Little emotion
 Baleful . Threat
 Hoary . ancient
----
+---19
 Appropriate . Allocate
 Pellucid . Clear
 Proselytise . Change religion or cause
@@ -496,7 +499,7 @@ Aplomb . Composure
 Ethereal . Lightness
 Mendicant . Beggar
 Turgid . pompous
----
+---20
 Exiguity . Scarcity 
 Obtain . Valid
 Extrapolate . Draw from more specific to general case
